@@ -1,4 +1,4 @@
-const username = 'JasonLee8';
-const password = 'Ysysys1858!';
+const username = 'process.env.username';
+const password = 'process.env.password';
 
 export {username, password};
