@@ -1,4 +1,5 @@
 #### Redux Meme Generator 
+[![CodeFactor](https://www.codefactor.io/repository/github/sudhanshu-jha/meme-generator/badge)](https://www.codefactor.io/repository/github/sudhanshu-jha/meme-generator)
 
 This React/Redux application uses the ImgFlip API, Redux, Fetch API to create a meme and see the result within the same webapp. 
 
