@@ -1,5 +1,4 @@
 #### Redux Meme Generator 
-[![CodeFactor](https://www.codefactor.io/repository/github/sudhanshu-jha/meme-generator/badge)](https://www.codefactor.io/repository/github/sudhanshu-jha/meme-generator)
 
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/2f21b4aa51c64108bdf49ff9ffd95ea0)](https://www.codacy.com/app/sudhanshu-jha/Meme-Generator?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=sudhanshu-jha/Meme-Generator&amp;utm_campaign=Badge_Grade)
 
