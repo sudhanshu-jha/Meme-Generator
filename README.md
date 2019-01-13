@@ -1,6 +1,7 @@
 #### Redux Meme Generator 
 
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/2f21b4aa51c64108bdf49ff9ffd95ea0)](https://www.codacy.com/app/sudhanshu-jha/Meme-Generator?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=sudhanshu-jha/Meme-Generator&amp;utm_campaign=Badge_Grade)
+[![Build Status](https://travis-ci.com/sudhanshu-jha/Meme-Generator.svg?branch=master)](https://travis-ci.com/sudhanshu-jha/Meme-Generator)
 
 This React/Redux application uses the ImgFlip API, Redux, Fetch API to create a meme and see the result within the same webapp. 
 
